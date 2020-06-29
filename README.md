@@ -1,4 +1,4 @@
-# ballerina-vim
+# upf-vim
 Vim syntax plugin for upf
 
 ## Installing via vim plug
